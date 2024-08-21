@@ -12,7 +12,7 @@
 
   se quizer entrar em contato comigo visite meu perfil do instragram @leh.xzh
 
-  tambem ja desenvolvi varias programações,como:
+  tambem ja desenvolvi varias programações como:
 
   https://cursos.alura.com.br/course/introducao-computacao-ambiente-ferramentas-programacao
 
